@@ -50,7 +50,6 @@ export function Founders() {
 									<img
 										src={member.image}
 										alt={member.name}
-										loading="lazy"
 										decoding="async"
 										width="192"
 										height="192"

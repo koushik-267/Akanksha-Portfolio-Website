@@ -234,7 +234,6 @@ export function Hero() {
 										}`}>
 										<img
 											src={cover}
-											loading="lazy"
 											decoding="async"
 											alt={`Book cover ${index + 1}`}
 											className="w-full h-full object-cover"
