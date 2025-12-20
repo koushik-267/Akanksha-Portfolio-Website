@@ -106,6 +106,7 @@ export function Publications() {
 											className="aspect-[3/4] overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-shadow relative group">
 											<img
 												src={book.url}
+												loading="lazy"
 												decoding="async"
 												alt={book.title}
 												className="w-full h-full object-cover"

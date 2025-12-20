@@ -50,6 +50,7 @@ export function Founders() {
 									<img
 										src={member.image}
 										alt={member.name}
+										loading="lazy"
 										decoding="async"
 										width="192"
 										height="192"
@@ -122,6 +123,10 @@ export function Founders() {
 									{member.image ? (
 										<img
 											src={member.image}
+											loading="lazy"
+											decoding="async"
+											width="192"
+											height="192"
 											alt={member.name}
 											className="w-full h-full object-cover"
 										/>
