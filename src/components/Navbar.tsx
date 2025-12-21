@@ -46,7 +46,7 @@ export function Navbar() {
 						className="flex items-center gap-3 shrink-0"
 						aria-label="Akanksha Publications home">
 						<img
-							src="/AKANKSHA FINAL LOGO copy.png"
+							src="/AKANKSHA FINAL LOGO copy-2.png"
 							decoding="async"
 							alt="Akanksha Publications logo"
 							className="h-16 w-16 object-contain"
