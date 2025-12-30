@@ -12,7 +12,7 @@ export function Founders() {
 			experience: "25+ Years of Experience in Education Industry",
 		},
 		{
-			name: "A BHANU SHUDHEER",
+			name: "A BHANU SUDHEER",
 			role: "MANAGING PARTNER",
 			degree: "M.Sc, B.Ed.",
 			phone: "+91 9059379999",
